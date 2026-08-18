@@ -1,0 +1,6 @@
+{
+  "name": "Kings Portfolio",
+  "description": "Personal developer portfolio application showcasing developer projects, skills, GitHub activity, and achievements.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
